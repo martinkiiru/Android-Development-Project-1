@@ -14,6 +14,8 @@ User Interface
 🗂️ Tabbed Navigation: Organized view (All, Pending, Completed)
 💫 Smooth Animations: Enhanced user experience
 🌙 Material 3 Design: Latest Flutter design system
+
+
 Additional Features
 🗑️ Clear Completed: Bulk remove finished tasks
 📅 Timestamps: Track when tasks were created
@@ -26,6 +28,8 @@ State Management: Provider pattern with ChangeNotifier
 Local Storage: SharedPreferences
 UI Components: Material Design 3
 Architecture: Clean architecture with separation of concerns
+
+
 📁 Project Structure
 lib/
 ├── main.dart                 # App entry point
@@ -41,6 +45,8 @@ lib/
     ├── todo_item.dart       # Individual todo item
     ├── add_todo_dialog.dart # Add new todo dialog
     └── edit_todo_dialog.dart # Edit existing todo dialog
+
+
 🚀 Getting Started
 Prerequisites
 Flutter SDK (3.0 or higher)
